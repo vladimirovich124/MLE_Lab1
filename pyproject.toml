@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "ml-training-pipeline"
+version = "0.1.0"
+description = "A basic ML training pipeline for CIFAR-10"
+authors = ["Your Name <your.email@example.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+torch = "^1.9.0"
+torchvision = "^0.10.0"
+scikit-learn = "^0.24.2"
+pyyaml = "^5.4.1"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

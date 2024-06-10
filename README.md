@@ -18,24 +18,24 @@ This project demonstrates a basic ML training pipeline for CIFAR-10 dataset.
 
 ### Installation
 
-1. Clone the repository:
+# 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/ml-training-pipeline.git
    cd ml-training-pipeline
-2. Install dependencies using poetry:
+# 2. Install dependencies using poetry:
 
    poetry install
 
 ## Usage
 
-1. Download data:
+# 1. Download data:
 
    python datadownload.py
 
-2. Train the model
+# 2. Train the model
 
    poetry run python scripts_train.py
 
-3. Evaluate the model:
+# 3. Evaluate the model:
 
    poetry run python scripts_evaluate.py

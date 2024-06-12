@@ -20,7 +20,7 @@ This project demonstrates a basic ML training pipeline for CIFAR-10 dataset.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ml-training-pipeline.git
+   git clone [https://github.com//vladimirovich124/MLE_Lab1.git](https://github.com/vladimirovich124/MLE_Lab1)
    cd ml-training-pipeline
 2. Install dependencies using poetry:
 
